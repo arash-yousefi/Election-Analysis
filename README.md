@@ -47,7 +47,7 @@ The analysis of the election shows that:
     
 
     
-![Election Results Snapshot](https://github.com/arash-yousefi/Election-Analysis/blob/main/election_analysis.png)
+![Election Results Snapshot](https://github.com/arash-yousefi/Election-Analysis/blob/main/election_analysis-Challenge.png)
 
 
 
