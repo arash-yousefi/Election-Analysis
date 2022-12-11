@@ -54,9 +54,10 @@ The analysis of the election shows that:
 ## Election-Audit Summary
 
 
-The PyPoll_Challenge.py script, with some modifications, can be used for other elections. This Script is written for analyze the election_results.csv file. 
+The PyPoll_Challenge.py script, with some modifications, can be used for other elections. This Script is written for analyze the election_results.csv file. the script used to perform the Election Audit
+
+
 ![image](https://user-images.githubusercontent.com/118234986/206931700-d2db1e06-f407-4586-9fdf-aac6e0e19808.png)
 
 
-the script used to perform the Election Audit 
 
